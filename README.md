@@ -1,0 +1,2 @@
+# stockmgt
+stock management system
